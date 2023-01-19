@@ -1,3 +1,6 @@
+// PASSWORD:8055
+// TurboC++ for windows 7 must be used to run this code as it contains GRAPHICS in C, whose functions are not supported by every IDE
+
 #include<stdio.h>
  #include<conio.h>
  #include<string.h>
